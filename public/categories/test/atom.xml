@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: test | 山东理工大学教育技术中心]]></title>
+  <link href="http://jwch.sdut.edu.cn/blog//categories/test/atom.xml" rel="self"/>
+  <link href="http://jwch.sdut.edu.cn/blog/"/>
+  <updated>2012-06-28T16:03:56+08:00</updated>
+  <id>http://jwch.sdut.edu.cn/blog/</id>
+  <author>
+    <name><![CDATA[group]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello world]]></title>
+    <link href="http://jwch.sdut.edu.cn/blog/2012/01/22/hello-world/"/>
+    <updated>2012-01-22T01:01:00+08:00</updated>
+    <id>http://jwch.sdut.edu.cn/blog/2012/01/22/hello-world</id>
+    <content type="html"><![CDATA[<p>Hello world 这是一篇测试文章，这里是山东理工大学linux小组blog主页。
+基于octpress系统搭建。
+测试
+<div><script src='https://gist.github.com/996818.js?file='></script>
+<noscript><pre><code>@@ -590,7 +590,7 @@ class SpritesTest &lt; Test::Unit::TestCase
+  it &quot;should generate a sprite from nested folders&quot; do
+    css = render &lt;&lt;-SCSS
+-     @import &quot;nested/*.png&quot;;
++     @import &quot;nested/**/*.png&quot;;
+      @include all-nested-sprites;
+    SCSS
+    assert_correct css, &lt;&lt;-CSS</code></pre></noscript></div>
+</p>
+]]></content>
+  </entry>
+  
+</feed>
