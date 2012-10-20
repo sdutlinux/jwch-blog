@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: project | 山东理工大学教育技术中心]]></title>
+  <link href="http://jwch.sdut.edu.cn/blog//categories/project/atom.xml" rel="self"/>
+  <link href="http://jwch.sdut.edu.cn/blog/"/>
+  <updated>2012-07-01T00:51:13+08:00</updated>
+  <id>http://jwch.sdut.edu.cn/blog/</id>
+  <author>
+    <name><![CDATA[group]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[文档计划]]></title>
+    <link href="http://jwch.sdut.edu.cn/blog/2012/06/28/wen-dang-ji-hua/"/>
+    <updated>2012-06-28T15:49:00+08:00</updated>
+    <id>http://jwch.sdut.edu.cn/blog/2012/06/28/wen-dang-ji-hua</id>
+    <content type="html"><![CDATA[<h2>目的</h2>
+
+<p>从上学起，老师就说好记性，不如烂笔头。确实，在教育技术中心，我们的工作可以不多，
+但有时没有正解，完善的文档的话，我们的工作量可以会翻倍。</p>
+
+<p>为了节省新同学的学习成本，为了遇到问题时能更方便，快速的解决。需要完善下我们的文档。</p>
+
+<p>希望老同学，能在业余时间贡献一点，您的一句话，可以会让新手节省一天的时间。</p>
+
+<p><a href="http://jwch.sdut.edu.cn/book">文档地址 http://jwch.sdut.edu.cn/book</a></p>
+
+<h2>用到的工具</h2>
+
+<p>本文档使用 reStructuredText 编写 , 语法请参见 <a href="http://jwch.sdut.edu.cn/book/rst.html#rst-tutorial">reStructuredText 简明教程</a></p>
+
+<p>以及</p>
+
+<p> <a href="http://code.google.com/p/pymotwcn/wiki/SphinxprojectHowto">Sphinx Project How-To</a></p>
+
+<p> <a href="http://taoc-zh.readthedocs.org/en/latest/README.html">基于结构化文本 reStructuredText 的图书工程</a></p>
+
+<p> <a href="http://docutils.sourceforge.net/docs/user/rst/quickref.html">Quick reStructuredText</a></p>
+
+<h2>如何提交自己的修改?</h2>
+
+<p>我在github.com建立jwch 的组织，你在这个组织的话，就有权限。没有的话，请将你的github 帐号告诉我</p>
+
+<p>需要你会使用git &amp;&amp; github</p>
+
+<p><a href="https://github.com/jwch/book">项目地址</a></p>
+]]></content>
+  </entry>
+  
+</feed>
