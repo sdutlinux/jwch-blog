@@ -44,11 +44,11 @@ footer: true
 
 ##刘哲
 
-![liuzhe](http://liuzhe0223.github.com/images/zhe.jpg)
+![liuzhe](http://pic.yupoo.com/liuzhe0223/Co76LOoA/QC2zW.jpg)
 
 * 计算机学院10级
 
- 喜欢linux
+ 喜欢linux, python +1 ,RoRing
 
 * 博客: [http://liuzhe0223.github.com](http://liuzhe0223.github.com)
 

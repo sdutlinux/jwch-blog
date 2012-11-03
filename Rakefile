@@ -4,9 +4,9 @@ require "stringex"
 
 ## -- Rsync Deploy config -- ##
 # Be sure your public key is listed in your server's ~/.ssh/authorized_keys file
-ssh_user       = "group@210.44.176.208"
+ssh_user       = "rails@210.44.176.208"
 ssh_port       = "80"
-document_root  = "~/blog/blog"
+document_root  = "~/blog"
 rsync_delete   = true
 deploy_default = "push"
 
