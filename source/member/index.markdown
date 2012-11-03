@@ -55,7 +55,7 @@ footer: true
 
 ##张卫
 
-![zhwei](http://pic.yupoo.com/zhweifcx_v/C0K5TvFY/OFhgN.jpg)
+![zhwei](http://jwch.sdut.edu.cn/book/_images/uyTi.jpg)
 
 * 计算机学院11级
 
