@@ -6,7 +6,7 @@ require "stringex"
 # Be sure your public key is listed in your server's ~/.ssh/authorized_keys file
 ssh_user       = "rails@210.44.176.208"
 ssh_port       = "80"
-document_root  = "~/blog"
+document_root  = "~/jwch-web/current/public/blog"
 rsync_delete   = true
 deploy_default = "push"
 
