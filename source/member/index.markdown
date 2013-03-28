@@ -13,7 +13,7 @@ footer: true
 
 * 计算机学院07级
 
- 关注web开发相关，关注LAMP, 现在在上海一家公司做web开发工作。
+ 关注web开发相关，关注LAMP, 现在在上海工作。
 
 * 博客: [http://www.linxun.info](http://www.linxun.info)
 
@@ -23,7 +23,7 @@ footer: true
 
 * 计算机学院08级
 
- 关注嵌入式linux，arm开发。
+ 关注嵌入式linux，arm开发。 [山东理工大学linux用户组](http://sdutlinux.org)发起者，组织者之一。
 
 * 博客: [http://jianxi.info](http://jianxi.info)
 
@@ -34,12 +34,12 @@ footer: true
 
 * 计算机学院09级
 
- 热爱技术，喜欢交流，Gnu/linux 坚定支持者，使用Arch,ubuntu 等。专注于Ruby on Rails, 喜欢ruby,python
- 等编程语言。 [山东理工大学linux用户组](http://sdutlinux.org)发起者，组织者之一。
+ 热爱技术，Gnu/linux 坚定支持者，使用Arch,ubuntu 等。, 喜欢Ruby, Rails。
+ [山东理工大学linux用户组](http://sdutlinux.org)发起者，组织者之一。
 
  * 邮箱：![email](http://wiki.dashuang.name/html/css/bg/image.png)
 
- * 博客：[http://li.dashuang.name](http://li.dashuang.name)
+ * 博客：[http://li.dashuang.name](http://lidashuang.writings.io/)
 
 
 ##刘哲
