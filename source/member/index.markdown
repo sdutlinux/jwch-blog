@@ -15,7 +15,7 @@ footer: true
 
  关注web开发相关，关注LAMP, 现在在上海一家公司做web开发工作。
 
-* 博客: [http://www.linxun.info](http://wwww.linxun.info)
+* 博客: [http://www.linxun.info](http://www.linxun.info)
 
 ## 孙建希
 
