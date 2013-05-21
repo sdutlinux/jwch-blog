@@ -3,7 +3,7 @@ layout: post
 title: "2013/05/18技术交流"
 date: 2013-05-19 11:38
 comments: true
-categories: 
+categories: tech
 ---
 
 这一周还是主要面向新人.
