@@ -30,7 +30,7 @@ footer: true
 
 ## 李大双
 
-![lidashuang](http://pic.yupoo.com/lidashuang/Bsd1wKDt/medish.jpg)
+![lidashuang](http://ww1.sinaimg.cn/bmiddle/7121be43jw1e57sp0c2w9j21kw0w0qa9.jpg)
 
 * 计算机学院09级
 
@@ -41,7 +41,17 @@ footer: true
 
 ##刘哲
 
-![liuzhe](http://pic.yupoo.com/liuzhe0223/Co76LOoA/QC2zW.jpg)
+![liuzhe](http://ww3.sinaimg.cn/bmiddle/7121be43jw1e57soe2ztvj21kw0w044p.jpg)
+
+* 计算机学院10级
+
+喜欢linux, python +1 ,RoRing
+
+* 博客: [http://liuzhe0223.github.com](http://liuzhe0223.github.com)
+
+##马伟伟
+
+![ma](http://ww3.sinaimg.cn/bmiddle/7121be43jw1e57si85200j21kw0w0ahc.jpg)
 
 * 计算机学院10级
 
@@ -52,7 +62,7 @@ footer: true
 
 ##张卫
 
-![zhwei](http://jwch.sdut.edu.cn/book/_images/uyTi.jpg)
+![zhwei](http://ww3.sinaimg.cn/bmiddle/7121be43jw1e57sorc06wj21kw0w0n43.jpg)
 
 * 计算机学院11级
 
