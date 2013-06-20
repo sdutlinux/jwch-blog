@@ -30,7 +30,7 @@ footer: true
 
 ## 李大双
 
-![lidashuang](http://ww1.sinaimg.cn/bmiddle/7121be43jw1e57sp0c2w9j21kw0w0qa9.jpg)
+![lidashuang](http://ww3.sinaimg.cn/bmiddle/7121be43jw1e5uc1ffmduj21kw0w0jti.jpg)
 
 * 计算机学院09级
 
@@ -55,9 +55,9 @@ footer: true
 
 * 计算机学院10级
 
-喜欢linux, python +1 ,RoRing
+喜欢linux, python,
 
-* 博客: [http://liuzhe0223.github.com](http://liuzhe0223.github.com)
+* 博客: [http://ma6174.cnblogs.com](http://ma6174.cnblogs.com)
 
 
 ##张卫
@@ -66,6 +66,6 @@ footer: true
 
 * 计算机学院11级
 
-专注技术，正在学习php，热爱生活.
+pythoner，热爱生活.
 
-* 博客: [http://zhwei.sinaapp.com](http://zhwei.sinaapp.com)
+* 博客: [http://zhangweide.cn](http://zhangweide.cn)
