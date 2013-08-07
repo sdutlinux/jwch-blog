@@ -69,3 +69,12 @@ footer: true
 pythoner，热爱生活.
 
 * 博客: [http://zhangweide.cn](http://zhangweide.cn)
+
+## 汤奇峰
+
+![tang](http://ww2.sinaimg.cn/bmiddle/7121be43jw1e7dyk51v4tj21kw16o12o.jpg)
+
+* 计算机学院11级
+
+
+* 博客: [http://zhangweide.cn](http://zhangweide.cn)
