@@ -34,9 +34,9 @@ footer: true
 
 * 计算机学院09级
 
-热爱技术，Gnu/linux 坚定支持者，使用Arch,ubuntu 等。喜欢Ruby, Rails,Golang。
+Go程序员，Gnu/linux 坚定支持者，使用Arch,ubuntu 等。喜欢Ruby, Rails,Golang。
 
-* 博客：[http://lidashuang.writings.io](http://lidashuang.writings.io/)
+* 博客：[http://li.sdutlinux.org/](http://li.sdutlinux.org/)
 
 
 ##刘哲
