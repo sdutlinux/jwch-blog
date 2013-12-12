@@ -2,7 +2,7 @@
 
 你要安装ruby环境，可以查看这个教程。
 
-	http://li.dashuang.name/rails/2012/05/26/ubuntu-1204-install-rails-development-env/
+	http://li.dashuang.name/rails/2012/05/26/ubuntu-1204-install-rails-development-env/(链接不可用)
 
 **注意**
 
@@ -63,4 +63,9 @@
 
 	rake rsync
 
-
+## 已解决版本bug可以目前在我(paomian)的机器上没问题
+	总结的命令
+	git clone git@github.com:sdutlinux/jwch-blog.git(克隆代码)
+	bundle install(安装依赖)
+	rake generate(生成静态页)
+	rake rsync(部署)

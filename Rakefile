@@ -4,8 +4,8 @@ require "stringex"
 
 ## -- Rsync Deploy config -- ##
 # Be sure your public key is listed in your server's ~/.ssh/authorized_keys file
-ssh_user       = "rails@210.44.176.208"
-ssh_port       = "118"
+ssh_user       = "rails@210.44.176.58"
+ssh_port       = "8080"
 document_root  = "~/jwch-web/shared/blog"
 rsync_delete   = true
 deploy_default = "push"
