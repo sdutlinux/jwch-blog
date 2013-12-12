@@ -77,4 +77,4 @@ pythoner，热爱生活.
 * 计算机学院11级
 
 
-* 博客: [http://zhangweide.cn](http://zhangweide.cn)
+* 博客: [http://xpaomian.com](http://xpaomian.com)
