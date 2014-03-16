@@ -1,0 +1,40 @@
+---
+layout: post
+title: "2014/03/15技术交流"
+date: 2014-03-16 08:46
+comments: true
+categories: tech
+---
+
+## 交流内容
+
++ 俄广宁
+
+	- 平衡四轴中的各种矩阵运算，信号处理，还有很亮的飞行器！
+
+![](http://zhwei.qiniudn.com/sdutlinux-IMG_20140315_194043.jpg)
+
++ 张卫
+
+	- django快速开发
+	- django generic view 进阶
+
++ 张腾
+
+	- Session and Cookie
+	- 多站点共用Session
+	- php Session handler的重写
+
+![](http://zhwei.qiniudn.com/sdutlinux-IMG_20140315_211014.jpg)
+
++ 汤奇峰
+
+	- Tengine 小探
+	- 二叉树
+	- Clojure 函数式语言特性
+![](http://zhwei.qiniudn.com/sdutlinux-IMG_20140315_211204.jpg)
+
+![](http://zhwei.qiniudn.com/sdutlinux-IMG_20140315_211157.jpg)
+
+
+![飞行器](http://zhwei.qiniudn.com/sdutlinux-IMG_20140315_214122.jpg)
