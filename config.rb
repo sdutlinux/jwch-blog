@@ -1,3 +1,5 @@
+require 'sass-globbing'
+
 # Require any additional compass plugins here.
 project_type = :stand_alone
 
@@ -6,6 +8,7 @@ http_path = "/jwch-blog/"
 http_images_path = "/jwch-blog/images"
 http_fonts_path = "/jwch-blog/fonts"
 css_dir = "public/jwch-blog/stylesheets"
+http_generated_images_path = "/images"
 
 # Local development paths
 sass_dir = "sass"
