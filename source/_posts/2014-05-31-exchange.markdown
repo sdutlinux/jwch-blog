@@ -1,0 +1,41 @@
+---
+layout: post
+title: "2014/05/31技术交流"
+date: 2014-06-04 16:38
+comments: true
+categories: tech
+---
+
+## 交流内容
+
++ 俄广宁
+
+  - 物联网
+  + tag: zigbee
+
+![1](http://zhwei-blog.qiniudn.com/group-IMG_20140531_194859.jpg)
+![2](http://zhwei-blog.qiniudn.com/group-IMG_20140531_194912.jpg)
+![3](http://zhwei-blog.qiniudn.com/group-IMG_20140531_194920.jpg)
+
++ 张腾
+
+  - sqlmap
+  + Automatic SQL injection and database takeover tool
+  - XSS 注入介绍
+
++ 张卫
+
+  - 电面经验
+
++ 崔哲
+
+  + ACMer的生活
+
+![4](http://zhwei-blog.qiniudn.com/group-IMG_20140531_204343.jpg)
+![5](http://zhwei-blog.qiniudn.com/group-IMG_20140531_204359.jpg)
+![6](http://zhwei-blog.qiniudn.com/group-IMG_20140531_204403.jpg)
+![7](http://zhwei-blog.qiniudn.com/group-IMG_20140531_204604.jpg)
+![8](http://zhwei-blog.qiniudn.com/group-IMG_20140531_204644.jpg)
+
+
+Ps: 妹子最多的一次
